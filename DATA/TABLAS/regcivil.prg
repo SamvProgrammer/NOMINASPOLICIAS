@@ -1,0 +1,1 @@
+SELECT jpp,num,nombre,fnacimien,curp,rfc,domicilio,fching as f_alta FROM S:\.DATOS\DATA\TABLAS\maestro WHERE superviven='S'  AND jpp<>'PEA' ORDER BY jpp,num INTO TABLE f:\Jub_reg_civil

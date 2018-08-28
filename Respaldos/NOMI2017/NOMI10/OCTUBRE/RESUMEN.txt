@@ -1,0 +1,182 @@
+SECRETARIA DE ADMINISTRACION                                                                                                              OFICINA DE PENSIONES
+RESUMEN CONTABLE DE LA NOMINA ELECTRONICA PARA EL PAGO A JUBILADOS DEL MES DE OCTUBRE DE 2017                                                         PAG: 455
+==============================================================================================================================================================
+                               PERCEPCIONES                                                                       PERCEPCIONES 
+CVE. DESCRIPCION               IMPORTE                                             CVE. DESCRIPCION               IMPORTE      
+==============================================================================================================================================================
+
+  1  PENSION MENSUAL            30,565,743.90                               
+  1  PENSION MENSUAL                45,520.00    RET.(16.09.2017-30.09.2017)
+  3  COMP. COMPACTA                  2,512.00                               
+  4  AJUSTE PENSION                  3,746.00                               
+ 14  P.S.M.                      6,333,884.00                               
+ 14  P.S.M.                          8,208.00    RET.(16.09.2017-30.09.2017)
+ 16  DESPENSA                    2,481,952.00                               
+ 16  DESPENSA                        2,904.00    RET.(16.09.2017-30.09.2017)
+ 19  VIDA CARA                   1,197,388.00                               
+ 19  VIDA CARA                         934.00    RET.(16.09.2017-30.09.2017)
+ 25  QUINQUENIOS                 5,800,601.61                               
+ 25  QUINQUENIOS                     7,484.70    RET.(16.09.2017-30.09.2017)
+                                                                                     82  AYUDA DE DEFUN                 36,720.00                               
+                                                                                     85  AYUDA UNION JUB                18,205.00                               
+                                                                                    202  FDO.D PENSIONES               402,173.10                               
+                                                                                    202  FDO.D PENSIONES                 4,096.81    RET.(16.09.2017-30.09.2017)
+                                                                                    204  I.M.S.S.                      280,024.26                               
+                                                                                    205  PRESTAMO PENS.              3,838,286.00                               
+                                                                                    206  PRESTAMO HIPOT.                92,373.07                               
+                                                                                    217  DESC.JUD.X POR.               330,761.36                               
+                                                                                    217  DESC.JUD.X POR.                16,699.77    RET.(01.01.2017-31.07.2017)
+                                                                                    220  ACREIMEX                      916,527.00                               
+                                                                                    221  DIRECTOS D.R.H.                49,200.00                               
+                                                                                    226  LINEA BCA.D.R.H                80,539.20                               
+                                                                                    227  PAQ. MAT. D.R.H                31,395.00                               
+                                                                                    231  VALE DE DESPENS                   900.00                               
+                                                                                    241  SERVS. FUNERA.                 37,951.00                               
+                                                                                    242  INVERPREA                     208,365.41                               
+                                                                                    251  SOLIDEZ DE M                  580,850.00                               
+                                                                                    257  CREDIFIEL                     117,861.01                               
+                                                                                    260  MULT. TU NOMINA               859,957.84                               
+                                                                                    265  MONTE DE PIEDAD               171,088.00                               
+                                                                                    268  CRED.SALVADOR                 155,878.00                               
+                                                                                    269  TOTAL CREDIT                  157,490.78                               
+                                                                                    270  MAS NOMINA                     11,485.00                               
+                                                                                    272  SUPER CASH                     54,612.12                               
+                               -------------                                                                       -------------           _____________
+TOTALES------>> PERCEPCIONES:  46,450,878.21                                                         DEDUCCIONES:   8,453,439.73 LIQUIDO:  37,997,438.48
+
+TOTAL EMPLEADOS:    2666
+
+
+
+
+LA PRESENTE NOMINA AMPARA LA CANTIDAD DE: $ 37,997,438.48 (TREINTA Y SIETE MILLONES NOVECIENTOS NOVENTA Y SIETE MIL CUATROCIENTOS TREINTA Y OCHO PESOS 48/100 M.N.)
+
+
+
+
+
+                                    ELABORO                                     REVISO                                AUTORIZO
+
+
+                         ________________________________         __________________________________      _______________________________
+                         C. BEATRIZ ADRIANA DOMINGUEZ MORENO      C.P. FELIX MAURO PALACIOS CHAVEZ         C.P. JESUS PARADA PARADA.               
+SECRETARIA DE ADMINISTRACION                                                                                                              OFICINA DE PENSIONES
+RESUMEN CONTABLE DE LA NOMINA ELECTRONICA PARA EL PAGO A PENSIONADOS DEL MES DE OCTUBRE DE 2017                                                       PAG:  18
+==============================================================================================================================================================
+                               PERCEPCIONES                                                                       PERCEPCIONES 
+CVE. DESCRIPCION               IMPORTE                                             CVE. DESCRIPCION               IMPORTE      
+==============================================================================================================================================================
+
+  1  PENSION MENSUAL               722,775.57                               
+ 14  P.S.M.                          2,026.92                               
+ 16  DESPENSA                          735.68                               
+ 19  VIDA CARA                         354.92                               
+ 25  QUINQUENIOS                     1,487.40                               
+                                                                                     82  AYUDA DE DEFUN                  1,200.00                               
+                                                                                     85  AYUDA UNION JUB                   585.00                               
+                                                                                    202  FDO.D PENSIONES                18,867.65    9%                         
+                                                                                    204  I.M.S.S.                       10,420.78                               
+                                                                                    205  PRESTAMO PENS.                 37,544.00                               
+                                                                                    206  PRESTAMO HIPOT.                 3,109.00                               
+                                                                                    217  DESC.JUD.X POR.                 3,444.00    20%                        
+                                                                                    220  ACREIMEX                        5,856.00                               
+                                                                                    221  DIRECTOS D.R.H.                   825.00                               
+                                                                                    226  LINEA BCA.D.R.H                 1,110.40                               
+                                                                                    227  PAQ. MAT. D.R.H                 1,000.00                               
+                                                                                    242  INVERPREA                       2,378.73                               
+                                                                                    251  SOLIDEZ DE M                    8,173.00                               
+                                                                                    257  CREDIFIEL                       3,948.91                               
+                                                                                    260  MULT. TU NOMINA                 9,676.02                               
+                                                                                    265  MONTE DE PIEDAD                 6,016.00                               
+                                                                                    268  CRED.SALVADOR                   6,725.00                               
+                                                                                    269  TOTAL CREDIT                    2,818.98                               
+                                                                                    272  SUPER CASH                      1,323.72                               
+                               -------------                                                                       -------------           _____________
+TOTALES------>> PERCEPCIONES:     727,380.49                                                         DEDUCCIONES:     125,022.19 LIQUIDO:     602,358.30
+
+TOTAL EMPLEADOS:     138
+
+
+
+
+LA PRESENTE NOMINA AMPARA LA CANTIDAD DE: $    602,358.30 (SEISCIENTOS DOS MIL TRESCIENTOS CINCUENTA Y OCHO PESOS 30/100 M.N.)
+
+
+
+
+
+                                    ELABORO                                     REVISO                                AUTORIZO
+
+
+                         ________________________________         __________________________________      _______________________________
+                         C. BEATRIZ ADRIANA DOMINGUEZ MORENO      C.P. FELIX MAURO PALACIOS CHAVEZ         C.P. JESUS PARADA PARADA.               
+SECRETARIA DE ADMINISTRACION                                                                                                              OFICINA DE PENSIONES
+RESUMEN CONTABLE DE LA NOMINA ELECTRONICA PARA EL PAGO A PENSIONISTAS DEL MES DE OCTUBRE DE 2017                                                      PAG:  83
+==============================================================================================================================================================
+                               PERCEPCIONES                                                                       PERCEPCIONES 
+CVE. DESCRIPCION               IMPORTE                                             CVE. DESCRIPCION               IMPORTE      
+==============================================================================================================================================================
+
+  1  PENSION MENSUAL             2,192,012.56                               
+  1  PENSION MENSUAL               121,100.45    RET.(01.08.2016-30.09.2017)
+ 47  CANASTA NAVID.                    850.00                               
+                                                                                     69  PAGOS.INDEBIDOS                 1,380.88                               
+                                                                                     82  AYUDA DE DEFUN                  5,300.00                               
+                                                                                     85  AYUDA UNION JUB                 2,410.00                               
+                                                                                    204  I.M.S.S.                       15,032.46                               
+                                                                                    205  PRESTAMO PENS.                 37,298.00                               
+                                                                                    220  ACREIMEX                        2,663.00                               
+                                                                                    241  SERVS. FUNERA.                  2,538.00                               
+                                                                                    242  INVERPREA                       8,136.65                               
+                                                                                    251  SOLIDEZ DE M                    1,554.00                               
+                                                                                    257  CREDIFIEL                       3,927.15                               
+                                                                                    260  MULT. TU NOMINA                42,485.81    55417                      
+                                                                                    268  CRED.SALVADOR                     858.00                               
+                                                                                    269  TOTAL CREDIT                    5,360.80                               
+                               -------------                                                                       -------------           _____________
+TOTALES------>> PERCEPCIONES:   2,313,963.01                                                         DEDUCCIONES:     128,944.75 LIQUIDO:   2,185,018.26
+
+TOTAL EMPLEADOS:     800
+
+
+
+
+LA PRESENTE NOMINA AMPARA LA CANTIDAD DE: $  2,185,018.26 (DOS MILLONES CIENTO OCHENTA Y CINCO MIL DIECIOCHO PESOS 26/100 M.N.)
+
+
+
+
+
+                                    ELABORO                                     REVISO                                AUTORIZO
+
+
+                         ________________________________         __________________________________      _______________________________
+                         C. BEATRIZ ADRIANA DOMINGUEZ MORENO      C.P. FELIX MAURO PALACIOS CHAVEZ         C.P. JESUS PARADA PARADA.               
+SECRETARIA DE ADMINISTRACION                                                                                                              OFICINA DE PENSIONES
+RESUMEN CONTABLE DE LA NOMINA  PARA EL PAGO A PENSION ALIMENTICIA DEL MES DE OCTUBRE DE 2017                                                          PAG:  10
+==============================================================================================================================================================
+                               PERCEPCIONES                                                                       PERCEPCIONES 
+CVE. DESCRIPCION               IMPORTE                                             CVE. DESCRIPCION               IMPORTE      
+==============================================================================================================================================================
+
+ 34  PENSION ALIM.                 334,205.36                               
+ 34  PENSION ALIM.                   8,151.84    RET.(01.01.2017-31.07.2017)
+                               -------------                                                                       -------------           _____________
+TOTALES------>> PERCEPCIONES:     342,357.20                                                         DEDUCCIONES:           0.00 LIQUIDO:     342,357.20
+
+TOTAL EMPLEADOS:      78
+
+
+
+
+LA PRESENTE NOMINA AMPARA LA CANTIDAD DE: $    342,357.20 (TRESCIENTOS CUARENTA Y DOS MIL TRESCIENTOS CINCUENTA Y SIETE PESOS 20/100 M.N.)
+
+
+
+
+
+                                    ELABORO                                     REVISO                                AUTORIZO
+
+
+                         ________________________________         __________________________________      _______________________________
+                         C. BEATRIZ ADRIANA DOMINGUEZ MORENO      C.P. FELIX MAURO PALACIOS CHAVEZ         C.P. JESUS PARADA PARADA.               

@@ -1,0 +1,27 @@
+   SUM neto TO nTotal
+   COUNT TO nDepo
+   SET PRINTER TO LISTADOS\BANAMEX.TXT
+   set printer on
+   SET DEVICE TO PRINT
+
+   SET DATE ANSI
+   	@ 0,0 SAY '1000089909706'+STRTRAN(dtoc(DATE()+1),'.','')+PADL('1',4,'0')+;
+   				LEFT('OFICINA DE PENSIONES DEL ESTADO DE OAXACA',36)+PADR('JUBILADOS',20,' ')+;
+   					'15D01'
+   	@ PROW()+1,0 SAY '21001'+PADL(ALLTRIM(STRTRAN(STR(nTotal,18,2),'.','')),18,'0')+'01'+PADL('44110110143',20,'0')+;
+   				PADL(ALLTRIM(STR(nDepo,6)),6,'0')
+	GO TOP 
+   DO WHILE !EOF()
+	   	@ PROW()+1,0 SAY '3000101001'+PADL(ALLTRIM(STRTRAN(STR(Neto,18,2),'.','')),18,'0')+'03'+PADL(ALLTRIM(Cuenta),20,'0')+;
+	   				PADR(ALLTRIM(STR(Num,6)),16,' ')+PADR(ALLTRIM(nombre),55,' ')+PADR(ALLTRIM(rfc),35,' ')
+	   	@ PROW(),PCOL() say SPACE(35+35+35)+'000000'
+	   	@ PROW(),PCOL() say SPACE(14+8+80+50)
+	   	SKIP 
+   ENDDO
+   	@ PROW()+1,0 SAY '4001'+PADL(ALLTRIM(STR(nDepo,6)),6,'0')+PADL(ALLTRIM(STRTRAN(STR(nTotal,18,2),'.','')),18,'0')+'000001'+;
+   				PADL(ALLTRIM(STRTRAN(STR(nTotal,18,2),'.','')),18,'0')
+   				
+   SET DATE BRITISH
+   set printer off
+   SET PRINTER TO
+   SET DEVICE TO SCREEN
