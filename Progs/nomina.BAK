@@ -115,7 +115,7 @@ cancelar= .F.
          set scoreboard off
          select (cbase)
          if (l == 1)
-            set filter to Jpp = cTipo  .AND. ;
+            set filter to Jpp = cTipo .AND. NomElec<> "S" .AND. ;
                superviven="S"
 *            set filter to Jpp = cTipo .AND. superviven="S"
          else

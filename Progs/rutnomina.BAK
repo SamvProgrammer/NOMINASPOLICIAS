@@ -173,18 +173,18 @@ Return s3
 Function fnFecha(nFecha)
 Local nMes
 Dimension nMes(12)
-nMes(1) ='Enero'
+nMes(1) ='Enero  '
 nMes(2) ='Febrero'
-nMes(3) ='Marzo'
-nMes(4) ='Abril'
-nMes(5) ='Mayo'
-nMes(6) ='Junio'
-nMes(7) ='Julio'
-nMes(8) ='Agosto'
-nMes(9) ='Sep.'
+nMes(3) ='Marzo  '
+nMes(4) ='Abril  '
+nMes(5) ='Mayo   '
+nMes(6) ='Junio  '
+nMes(7) ='Julio  '
+nMes(8) ='Agosto '
+nMes(9) ='Sep.   '
 nMes(10)='Octubre'
-nMes(11)='Nov.'
-nMes(12)='Dic.'
+nMes(11)='Nov.   '
+nMes(12)='Dic.   '
 if !Empty(nFecha)
 	nFecha=IIf(Day(nFecha)<10,'0','')+Alltrim(Str(Day(nFecha)))+' de '+nMes(Month(nFecha))+Iif(Year(nFecha)<2000,' de ',' de ')+Str(Year(nFecha),4)
 Else
