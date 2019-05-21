@@ -1,12 +1,12 @@
 *       *********************************************************
 *       *                                                         
-*       * 11/23/18              MENU.MPR                11:14:40  
+*       * 05/21/19              MENU.MPR                12:14:01  
 *       *                                                         
 *       *********************************************************
 *       *                                                         
 *       * Author's Name                                           
 *       *                                                         
-*       * Copyright (C) 2018 Company Name                         
+*       * Copyright (C) 2019 Company Name                         
 *       * Address                                                 
 *       * City,     Zip                                           
 *       *                                                         
@@ -70,37 +70,37 @@ EndWith
 SET SYSMENU TO
 SET SYSMENU AUTOMATIC
 
-DEFINE PAD _5cl0o3mtp OF _MSYSMENU PROMPT "\<Procesos de Nomina" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yib OF _MSYSMENU PROMPT "\<Procesos de Nomina" COLOR SCHEME 3 ;
 	KEY ALT+P, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mtq OF _MSYSMENU PROMPT "Super\<vivencia" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yic OF _MSYSMENU PROMPT "Super\<vivencia" COLOR SCHEME 3 ;
 	KEY ALT+V, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mtr OF _MSYSMENU PROMPT "\<Catálogos" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yid OF _MSYSMENU PROMPT "\<Catálogos" COLOR SCHEME 3 ;
 	KEY ALT+C, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mts OF _MSYSMENU PROMPT "\<Reportes" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yie OF _MSYSMENU PROMPT "\<Reportes" COLOR SCHEME 3 ;
 	KEY ALT+R, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mtt OF _MSYSMENU PROMPT "\<Herramientas" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yif OF _MSYSMENU PROMPT "\<Herramientas" COLOR SCHEME 3 ;
 	KEY ALT+H, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mtu OF _MSYSMENU PROMPT "\<Acerca de ..." COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yig OF _MSYSMENU PROMPT "\<Acerca de ..." COLOR SCHEME 3 ;
 	KEY ALT+A, "" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O"
-DEFINE PAD _5cl0o3mtv OF _MSYSMENU PROMPT "\<Salir" COLOR SCHEME 3 ;
+DEFINE PAD _5hm0q7yih OF _MSYSMENU PROMPT "\<Salir" COLOR SCHEME 3 ;
 	KEY ALT+F4, "ALT+F4" ;
 	SKIP FOR Type("_Screen.ActiveForm")=="O" ;
 	MESSAGE 'Salir del Sistema'
-ON PAD _5cl0o3mtp OF _MSYSMENU ACTIVATE POPUP procesosde
-ON PAD _5cl0o3mtq OF _MSYSMENU ACTIVATE POPUP superviven
-ON PAD _5cl0o3mtr OF _MSYSMENU ACTIVATE POPUP catálogos
-ON PAD _5cl0o3mts OF _MSYSMENU ACTIVATE POPUP reportes
-ON PAD _5cl0o3mtt OF _MSYSMENU ACTIVATE POPUP herramient
-ON SELECTION PAD _5cl0o3mtu OF _MSYSMENU Do Form Forms\about.Scx
-ON SELECTION PAD _5cl0o3mtv OF _MSYSMENU ;
-	DO _5cl0o3mtw ;
-	IN LOCFILE("POLICIAS\MENUS\MENU" ,"MPX;MPR|FXP;PRG" ,"WHERE is MENU?")
+ON PAD _5hm0q7yib OF _MSYSMENU ACTIVATE POPUP procesosde
+ON PAD _5hm0q7yic OF _MSYSMENU ACTIVATE POPUP superviven
+ON PAD _5hm0q7yid OF _MSYSMENU ACTIVATE POPUP catálogos
+ON PAD _5hm0q7yie OF _MSYSMENU ACTIVATE POPUP reportes
+ON PAD _5hm0q7yif OF _MSYSMENU ACTIVATE POPUP herramient
+ON SELECTION PAD _5hm0q7yig OF _MSYSMENU Do Form Forms\about.Scx
+ON SELECTION PAD _5hm0q7yih OF _MSYSMENU ;
+	DO _5hm0q7yii ;
+	IN LOCFILE("NOMINASPOLICIAS\MENUS\MENU" ,"MPX;MPR|FXP;PRG" ,"WHERE is MENU?")
 
 DEFINE POPUP procesosde MARGIN RELATIVE SHADOW COLOR SCHEME 4
 DEFINE BAR 1 OF procesosde PROMPT "\<Respaldo de nominas Generadas" ;
@@ -215,7 +215,7 @@ Read Events
 
 *       *********************************************************
 *       *                                                         
-*       * _5CL0O3MTW  ON SELECTION PAD                            
+*       * _5HM0Q7YII  ON SELECTION PAD                            
 *       *                                                         
 *       * Procedure Origin:                                       
 *       *                                                         
@@ -226,7 +226,7 @@ Read Events
 *       *                                                         
 *       *********************************************************
 *
-PROCEDURE _5cl0o3mtw
+PROCEDURE _5hm0q7yii
 *Set Sysmenu to Defa
 CLOSE All
 IF !EMPTY(Usa_Indice)
